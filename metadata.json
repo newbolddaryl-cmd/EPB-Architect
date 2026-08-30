@@ -1,0 +1,6 @@
+{
+  "name": "EPB Architect",
+  "description": "Board-ready EPB, OPB, and AF 1206 writing engine and 4-Chief murderboard review for Airmen.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
